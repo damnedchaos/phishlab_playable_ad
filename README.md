@@ -1,2 +1,2 @@
-# phishlakb_playable_ad
+# phishlab_playable_ad
 playable ad
